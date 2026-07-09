@@ -13,6 +13,10 @@ Summer tennis is a fabric problem disguised as a fashion problem. Here's how to 
 
 ![Woman in a stylish summer tennis outfit](/images/court-s1.png)
 
+Here's the whole outfit checklist at a glance:
+
+![Summer tennis outfit checklist](/images/court-diagram.svg)
+
 ## Rule #1: Fabric Beats Everything
 That adorable cotton top? It'll drink your sweat and hold onto it like a grudge. **Reach for moisture-wicking, breathable synthetics** — they pull sweat away and dry fast, so you stay cool and the outfit stays cute. This one choice fixes 80% of hot-court misery.
 
