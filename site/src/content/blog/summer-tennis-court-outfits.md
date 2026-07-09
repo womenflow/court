@@ -1,9 +1,9 @@
 ---
 title: "What to Actually Wear on the Tennis Court This Summer (Cute & Sweat-Proof)"
 description: "Summer tennis outfit ideas that look cute and survive the heat — breathable fabrics, flattering fits, and what to skip when it's blazing on court."
-pubDate: 2026-07-10T08:00:00Z
+pubDate: 2026-07-09T22:13:09Z
 tags: ["tennis fashion", "activewear", "summer style", "sports"]
-draft: true
+draft: false
 image: "/images/court-s1.png"
 ---
 
